@@ -2,41 +2,42 @@
 
 ## Back-End
 
-### PHP
-### Laravel
-### Testing (Pest/PHPUnit)
-### Apache & Nginx
+🔭 PHP
+🔭 Laravel
+🔭 Testing (Pest/PHPUnit)
+🔭 Apache & Nginx
 
 ## Front-End
 
-### React
-### Redux
-### TailwindCSS
+🔭 React
+🔭 Redux
+🔭 TailwindCSS
 
 ## Database
 
-### MySQL
-### Redis
+🔭 MySQL
+🔭 Redis
 
 ## CI/CD
 
-### Laravel Forge
-### Jenkins
-### Docker
-### SonarQube
+🔭 Laravel Forge
+🔭 Jenkins
+🔭 Docker
+🔭 SonarQube
 
 ## Deployment
 
-### AWS
+🔭 AWS
+🔭 Digital Ocean
 
 ## Ecosystem
 
-### Shopify
-### SAAS
+🔭 Shopify
+🔭 SAAS
 
 ## Others
 
-### Elastic Search
-### Scrum
-### Agile
+🔭 Elastic Search
+🔭 Scrum
+🔭 Agile
 
